@@ -6,16 +6,15 @@
 
 
 <h1> 1)basicu  function in c is</h1>
-# 100 Days of Code - C Language Challenge
+## basic formula in c
+<h2>add two numbwe </h2>
+<h2>addition of first and last number</h2>
+<h2>area of circle</h2>
+<h2>area of triangle</h2>
 
-Welcome to my 100 Days of Code challenge! This challenge began in the first semester and will be completed in the second semester. The goal is to write, debug, and learn new concepts in C programming every day.
+## 
 
-## Challenge Overview
 
-**Start Date:** January 20, 2024  
-**End Date:** June 1, 2024
-
-Every day, I will:
 - Write a new C program.
 - Commit the code to this repository.
 - Document what I've learned.
