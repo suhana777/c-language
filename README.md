@@ -12,12 +12,9 @@
 <h2>area of circle</h2>
 <h2>area of triangle</h2>
 <h2>binary to decimal</h2>
-<h2>claculate probability<h2>
+<h2>calculate probability<h2>
+-[this is same math formule]
 
-
-- Write a new C program.
-- Commit the code to this repository.
-- Document what I've learned.
 
 ## Table of Contents
 
