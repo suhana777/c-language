@@ -5,15 +5,15 @@
      the early 1970s by Dennis Ritchie at Bell Labs.
 
 
-<h1> 1)basicu  function in c is</h1>
+<h1> 1)basic  function in c is</h1>
 # basic formula in c
 <h2>add two numbwe </h2>
 <h2>addition of first and last number</h2>
 <h2>area of circle</h2>
 <h2>area of triangle</h2>
-
+<h2>binary to decimal</h2>
+<claculate probability<h2>
 ## 
-
 
 - Write a new C program.
 - Commit the code to this repository.
