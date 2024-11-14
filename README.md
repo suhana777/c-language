@@ -51,7 +51,7 @@
 
 ## code 11-20
 
-### Day 11
+### code 11
 **Title:** Factorial of a Number  
 **Description:** A program to calculate the factorial of a given number.  
 **Code:** [code 11 - Factorial](code11/factorial.c)  
@@ -59,7 +59,7 @@
 
 ...
 
-## Day 21-30
+## code 21-30
 
 ### code 21
 **Title:** Check Prime Number  
@@ -69,7 +69,7 @@
 
 ...
 
-## Day 31-40
+## code 31-40
 
 ### code 31
 **Title:** Reverse a Number  
