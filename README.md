@@ -6,7 +6,7 @@
 
 
 <h1> 1)basicu  function in c is</h1>
-## basic formula in c
+#basic formula in c
 <h2>add two numbwe </h2>
 <h2>addition of first and last number</h2>
 <h2>area of circle</h2>
