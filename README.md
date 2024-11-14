@@ -5,8 +5,8 @@
      the early 1970s by Dennis Ritchie at Bell Labs.
 
 
-<h1> 1)basic  function in c is</h1>
-# basic formula in c
+<h1> 1)basic code in c is</h1>
+
 <h2>add two number </h2>
 <h2>addition of first and last number</h2>
 <h2>area of circle</h2>
