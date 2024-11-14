@@ -5,3 +5,4 @@
      the early 1970s by Dennis Ritchie at Bell Labs.
 
 
+<h1>basicu libary function in c is</h1>
