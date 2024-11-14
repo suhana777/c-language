@@ -1,0 +1,36 @@
+#include <stdio.h>
+#include <string.h>
+
+// Function to convert number to Roman numeral
+void convertToRoman(int num, char *roman) {
+    struct Roman {
+        int value;
+        const char *symbol;
+    } romanNumerals[] = {
+        {1000, "M"}, {900, "CM"}, {500, "D"}, {400, "CD"},
+        {100, "C"}, {90, "XC"}, {50, "L"}, {40, "XL"},
+        {10, "X"}, {9, "IX"}, {5, "V"}, {4, "IV"}, {1, "I"}
+    };
+
+    int i = 0;
+    while (num > 0) {
+        while (num >= romanNumerals[i].value) {
+            strcat(roman, romanNumerals[i].symbol);
+            num -= romanNumerals[i].value;
+        }
+        i++;
+    }
+}
+
+int main() {
+    int num;
+    char roman[100] = "";
+
+    printf("Enter a number: ");
+    scanf("%d", &num);
+
+    convertToRoman(num, roman);
+    printf("Roman numeral: %s\n", roman);
+
+    return 0;
+}
