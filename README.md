@@ -16,19 +16,16 @@
 -[this is same basic math formule code]
 
 
-## Table of Contents
+## all code we study following
 
-- [Day 1-10](#day-1-10)
-- [Day 11-20](#day-11-20)
-- [Day 21-30](#day-21-30)
-- [Day 31-40](#day-31-40)
-- [Day 41-50](#day-41-50)
-- [Day 51-60](#day-51-60)
-- [Day 61-70](#day-61-70)
-- [Day 71-80](#day-71-80)
-- [Day 81-90](#day-81-90)
-- [Day 91-100](#day-91-100)
-- [Resources](#resources)
+- [code 1](#code-1)
+- [code 2](#code-2)
+- [code 3-20](#code-11-20)
+- [code 21-30](#code-21-30)
+- [code31-40](#code-31-40)
+- [code41-50](#code-41-50)
+- [code 51-60](#code-51-60)
+
 
 ## Day 1-10
 
