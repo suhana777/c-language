@@ -13,7 +13,7 @@
 <h2>area of triangle</h2>
 <h2>binary to decimal</h2>
 <h2>calculate probability<h2>
--[this is same math formule]
+-[this is same basic math formule code]
 
 
 ## Table of Contents
